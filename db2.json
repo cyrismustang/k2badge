@@ -721,6 +721,15 @@
 		"full": "Carrier Water Demon",
 		"name": "Carrier"
 	},
+	"shinkaikuragehime1": {
+		"offset": {
+			"x": 100,
+			"y": -250
+		},
+		"type": "ACV",
+		"full": "Abyssal Jellyfish Princess",
+		"name": "Abyssal_Jellyfish"
+	},
 	"kakyuu1": {
 		"offset": {
 			"x": 100,
@@ -1075,6 +1084,15 @@
 		},
 		"type": "AAX",
 		"full": "Seaplane Tender Princess",
+		"name": "Seaplane_Tender"
+	},
+	"suibosuikihime1": {
+		"offset": {
+			"x": 30,
+			"y": 20
+		},
+		"type": "AAX",
+		"full": "Seaplane Tender Water Princess",
 		"name": "Seaplane_Tender"
 	},
 	"ptkoonigun1": {

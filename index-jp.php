@@ -211,7 +211,7 @@
 						</div>
 						<div>
 							<span><input type="checkbox" name="asashio2" id="asashio2"></span>
-							<label for="asashio2">朝潮 (70)</label>
+							<label for="asashio2">朝潮 (70/85)</label>
 						</div>
 						<div class="kai blueprint">
 							<span><input type="checkbox" name="ooshio2" id="ooshio2"></span>

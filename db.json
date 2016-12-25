@@ -1404,6 +1404,21 @@
 		"full": "Kawakaze Kai 2",
 		"name": "Shiratsuyu"
 	},
+	"yamakaze1": {
+		"offset": {
+			"x": -40,
+			"y": 5
+		},
+		"offset2": {
+			"x": 0,
+			"y": -10
+		},
+		"rarity": 4,
+		"type": "DD",
+		"unique": true,
+		"full": "Yamakaze",
+		"name": "Shiratsuyu"
+	},
 	"asashio1": {
 		"offset": {
 			"x": -50,
@@ -2357,6 +2372,21 @@
 		"type": "DD",
 		"unique": true,
 		"full": "Harukaze",
+		"name": "Kamikaze"
+	},
+	"asakaze1": {
+		"offset": {
+			"x": 50,
+			"y": 10
+		},
+		"offset2": {
+			"x": 0,
+			"y": -20
+		},
+		"rarity": 4,
+		"type": "DD",
+		"unique": true,
+		"full": "Asakaze",
 		"name": "Kamikaze"
 	},
 	"tenryuu1": {
@@ -4860,6 +4890,36 @@
 		"full": "Aquila",
 		"name": "Aquila"
 	},
+	"saratoga1": {
+		"offset": {
+			"x": 125,
+			"y": -20
+		},
+		"offset2": {
+			"x": -75,
+			"y": -15
+		},
+		"rarity": 6,
+		"type": "CV",
+		"unique": true,
+		"full": "Saratoga",
+		"name": "Lexington"
+	},
+	"saratoga2": {
+		"offset": {
+			"x": 80,
+			"y": -20
+		},
+		"offset2": {
+			"x": -75,
+			"y": -15
+		},
+		"rarity": 7,
+		"type": "CV",
+		"unique": false,
+		"full": "Saratoga Kai",
+		"name": "Lexington"
+	},
 	"i1681": {
 		"offset": {
 			"x": 0,
@@ -5459,5 +5519,20 @@
 		"unique": false,
 		"full": "Hayasui Kai",
 		"name": "Hayasui"
+	},
+	"commandantteste1": {
+		"offset": {
+			"x": 0,
+			"y": 0
+		},
+		"offset2": {
+			"x": 0,
+			"y": 0
+		},
+		"rarity": 6,
+		"type": "AX",
+		"unique": true,
+		"full": "Commandant Teste",
+		"name": "Commandant_Teste"
 	}
 }

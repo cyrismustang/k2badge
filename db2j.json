@@ -694,6 +694,15 @@
 		"full": "空母水鬼",
 		"name": "空母"
 	},
+	"shinkaikuragehime1": {
+		"offset": {
+			"x": 100,
+			"y": -250
+		},
+		"type": "ACV",
+		"full": "深海海月姫",
+		"name": "深海海月"
+	},
 	"kakyuu1": {
 		"offset": {
 			"x": 100,
@@ -1048,6 +1057,15 @@
 		},
 		"type": "AAX",
 		"full": "水母棲姫",
+		"name": "水母"
+	},
+	"suibosuikihime1": {
+		"offset": {
+			"x": 30,
+			"y": 20
+		},
+		"type": "AAX",
+		"full": "水母水姫",
 		"name": "水母"
 	},
 	"ptkoonigun1": {
