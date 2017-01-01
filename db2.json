@@ -913,6 +913,43 @@
 		"full": "New Year's Northern Princess",
 		"name": "Northern"
 	},
+	"hoppouhime7": {
+		"offset": {
+			"x": 50,
+			"y": -100
+		},
+		"type": "AINS",
+		"full": "Autumn Northern Princess",
+		"name": "Northern"
+	},
+	"hoppouhime8": {
+		"offset": {
+			"x": 50,
+			"y": -100
+		},
+		"type": "AINS",
+		"full": "Valentines Northern Princess",
+		"name": "Northern"
+	},
+	"hoppouhime9": {
+		"offset": {
+			"x": 50,
+			"y": -100
+		},
+		"type": "AINS",
+		"full": "Sukiya Northern Princess",
+		"name": "Northern"
+	},
+	"hoppouhime10": {
+		"offset": {
+			"x": 0,
+			"y": -50
+		},
+		"type": "AINS",
+		"damageable": true,
+		"full": "Haregi Northern Princess",
+		"name": "Northern"
+	},
 	"kouwanhime1": {
 		"offset": {
 			"x": 150,
@@ -1113,6 +1150,15 @@
 		"full": "Battery Imp",
 		"name": "Battery"
 	},
+	"akashishop1": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "Shopkeeper Akashi",
+		"name": "Shop"
+	},
 	"akashishop2": {
 		"offset": {
 			"x": -25,
@@ -1131,6 +1177,60 @@
 		"full": "Early Summer Improvement Akashi",
 		"name": "Shop"
 	},
+	"akashishop4": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "Christmas Shopkeeper Akashi",
+		"name": "Shop"
+	},
+	"akashishop5": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "Christmas Improvement Akashi",
+		"name": "Shop"
+	},
+	"akashishop6": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "New Years Shopkeeper Akashi",
+		"name": "Shop"
+	},
+	"akashishop7": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "New Years Improvement Akashi",
+		"name": "Shop"
+	},
+	"akashishop8": {
+		"offset": {
+			"x": -25,
+			"y": 25
+		},
+		"type": "AAX",
+		"full": "Sukiya Shopkeeper Akashi",
+		"name": "Shop"
+	},
+	"mamiyashop1": {
+		"offset": {
+			"x": 25,
+			"y": 10
+		},
+		"type": "AAX",
+		"full": "Mamiya",
+		"name": "Shop"
+	},
 	"mamiyashop2": {
 		"offset": {
 			"x": 25,
@@ -1138,6 +1238,24 @@
 		},
 		"type": "AAX",
 		"full": "Early Summer Mamiya",
+		"name": "Shop"
+	},
+	"mamiyashop3": {
+		"offset": {
+			"x": 25,
+			"y": 10
+		},
+		"type": "AAX",
+		"full": "Christmas Mamiya",
+		"name": "Shop"
+	},
+	"irakoshop1": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Irako",
 		"name": "Shop"
 	},
 	"irakoshop2": {
@@ -1148,5 +1266,68 @@
 		"type": "AAX",
 		"full": "Early Summer Irako",
 		"name": "Shop"
+	},
+	"irakoshop3": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Christmas Irako",
+		"name": "Shop"
+	},
+	"ooyodoquest1": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Ooyodo",
+		"name": "Quest"
+	},
+	"ooyodoquest2": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "New Year's Ooyodo",
+		"name": "Quest"
+	},
+	"ooyodoquest3": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "New Year's Ooyodo",
+		"name": "Quest"
+	},
+	"ooyodoquest4": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Christmas Ooyodo",
+		"name": "Quest"
+	},
+	"ooyodoquest5": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Sukiya Ooyodo",
+		"name": "Quest"
+	},
+	"ooyodoquest6": {
+		"offset": {
+			"x": 25,
+			"y": 0
+		},
+		"type": "AAX",
+		"full": "Summer Ooyodo",
+		"name": "Quest"
 	}
 }
